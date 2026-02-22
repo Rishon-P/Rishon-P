@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Rishon Pravin 👋
 
+### 🎓 Dual-Degree Engineering Student
+I am currently pursuing a rigorous academic pathway, balancing core computer science foundations with specialized data science applications. My goal is to build scalable software solutions powered by data-driven insights.
+
+ - B.Tech in Computer Science & Engineering | PES University, Ring Road Campus (2025–2029)
+
+ - BS in Data Science and Applications | IIT Madras (2025–2029)
 <!--
 **Rishon-P/Rishon-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
